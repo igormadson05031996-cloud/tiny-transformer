@@ -4,3 +4,4 @@
 # 2026-01-05: Add docstrings to utility functions
 # 2026-01-05: Add unit tests for tokenizer
 # 2026-01-06: Simplify loss computation
+# 2026-01-14: Fix checkpoint save path
