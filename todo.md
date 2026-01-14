@@ -4,3 +4,4 @@
 # 2026-01-06: Add early stopping to trainer
 # 2026-01-07: Document model architecture
 # 2026-01-11: Add learning rate scheduler
+# 2026-01-14: Bump numpy to latest stable
