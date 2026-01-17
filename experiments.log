@@ -6,3 +6,4 @@
 # 2026-01-06: Simplify loss computation
 # 2026-01-14: Fix checkpoint save path
 # 2026-01-17: Refactor training loop for clarity
+# 2026-01-17: Fix gradient accumulation bug
