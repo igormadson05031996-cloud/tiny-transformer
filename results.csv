@@ -2,3 +2,4 @@
 # 2026-01-01: Add baseline evaluation script
 # 2026-01-11: Vectorise inner loop for speed
 # 2026-01-11: Vectorise inner loop for speed
+# 2026-01-18: Add learning rate scheduler
