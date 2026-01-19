@@ -6,3 +6,4 @@
 # 2026-01-11: Add learning rate scheduler
 # 2026-01-14: Bump numpy to latest stable
 # 2026-01-15: Tune hyperparameters for better accuracy
+# 2026-01-19: Log validation metrics per epoch
