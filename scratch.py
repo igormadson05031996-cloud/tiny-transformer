@@ -5,3 +5,4 @@
 # 2026-01-18: Switch to AdamW optimiser
 # 2026-01-20: Add unit tests for tokenizer
 # 2026-01-22: Fix seed for reproducibility
+# 2026-01-23: Cache tokenised dataset to disk
