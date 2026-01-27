@@ -8,3 +8,4 @@
 # 2026-01-15: Tune hyperparameters for better accuracy
 # 2026-01-19: Log validation metrics per epoch
 # 2026-01-26: Update README with usage examples
+# 2026-01-27: Add unit tests for tokenizer
