@@ -5,3 +5,4 @@
 # 2026-01-28: Add progress bar to training loop
 # 2026-01-29: Update README with usage examples
 # 2026-01-30: Minor performance improvements
+# 2026-02-04: Clean up unused imports
