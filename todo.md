@@ -14,3 +14,4 @@
 # 2026-01-29: Simplify config loading
 # 2026-01-30: Add learning rate scheduler
 # 2026-02-04: Add learning rate scheduler
+# 2026-02-05: Add docstrings to utility functions
