@@ -14,3 +14,4 @@
 # 2026-02-03: Add progress bar to training loop
 # 2026-02-04: Update README with usage examples
 # 2026-02-05: Add type hints to core functions
+# 2026-02-07: Switch to AdamW optimiser
