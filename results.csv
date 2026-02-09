@@ -4,3 +4,4 @@
 # 2026-01-11: Vectorise inner loop for speed
 # 2026-01-18: Add learning rate scheduler
 # 2026-01-19: Update README with usage examples
+# 2026-02-09: Tune hyperparameters for better accuracy
