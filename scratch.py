@@ -8,3 +8,4 @@
 # 2026-01-23: Cache tokenised dataset to disk
 # 2026-02-05: Cache tokenised dataset to disk
 # 2026-02-10: Log validation metrics per epoch
+# 2026-02-10: Fix off-by-one in batch sampler
