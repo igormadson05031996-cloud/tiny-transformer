@@ -7,3 +7,4 @@
 # 2026-01-22: Fix seed for reproducibility
 # 2026-01-23: Cache tokenised dataset to disk
 # 2026-02-05: Cache tokenised dataset to disk
+# 2026-02-10: Log validation metrics per epoch
