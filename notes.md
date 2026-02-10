@@ -7,3 +7,4 @@
 # 2026-01-30: Minor performance improvements
 # 2026-02-04: Clean up unused imports
 # 2026-02-09: Bump numpy to latest stable
+# 2026-02-10: Simplify loss computation
