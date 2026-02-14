@@ -18,3 +18,4 @@
 # 2026-02-07: Clean up unused imports
 # 2026-02-11: Reduce memory usage in forward pass
 # 2026-02-12: Add type hints to core functions
+# 2026-02-14: Add type hints to core functions
