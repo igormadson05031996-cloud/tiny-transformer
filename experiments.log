@@ -17,3 +17,4 @@
 # 2026-02-07: Switch to AdamW optimiser
 # 2026-02-07: Handle empty batch edge case
 # 2026-02-16: Fix off-by-one in batch sampler
+# 2026-02-17: Add learning rate scheduler
