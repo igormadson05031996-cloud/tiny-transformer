@@ -9,3 +9,4 @@
 # 2026-02-09: Bump numpy to latest stable
 # 2026-02-10: Simplify loss computation
 # 2026-02-16: Update README with usage examples
+# 2026-02-19: Simplify loss computation
