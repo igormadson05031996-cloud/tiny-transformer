@@ -6,3 +6,4 @@
 # 2026-01-19: Update README with usage examples
 # 2026-02-09: Tune hyperparameters for better accuracy
 # 2026-02-21: Refactor training loop for clarity
+# 2026-02-28: Add baseline evaluation script
