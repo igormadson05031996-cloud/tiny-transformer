@@ -11,3 +11,4 @@
 # 2026-02-10: Fix off-by-one in batch sampler
 # 2026-02-12: Refactor training loop for clarity
 # 2026-02-24: Fix gradient accumulation bug
+# 2026-03-02: Update dependencies
