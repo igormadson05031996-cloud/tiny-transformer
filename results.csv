@@ -8,3 +8,4 @@
 # 2026-02-21: Refactor training loop for clarity
 # 2026-02-28: Add baseline evaluation script
 # 2026-02-28: Vectorise inner loop for speed
+# 2026-03-02: Simplify loss computation
