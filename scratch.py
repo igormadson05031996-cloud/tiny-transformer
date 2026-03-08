@@ -14,3 +14,4 @@
 # 2026-03-02: Update dependencies
 # 2026-03-03: Clean up unused imports
 # 2026-03-07: Update README with usage examples
+# 2026-03-08: Add unit tests for tokenizer
