@@ -19,3 +19,4 @@
 # 2026-02-16: Fix off-by-one in batch sampler
 # 2026-02-17: Add learning rate scheduler
 # 2026-02-19: Fix checkpoint save path
+# 2026-03-09: Fix checkpoint save path
