@@ -15,3 +15,4 @@
 # 2026-03-03: Clean up unused imports
 # 2026-03-07: Update README with usage examples
 # 2026-03-08: Add unit tests for tokenizer
+# 2026-03-09: Add early stopping to trainer
