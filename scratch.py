@@ -16,3 +16,4 @@
 # 2026-03-07: Update README with usage examples
 # 2026-03-08: Add unit tests for tokenizer
 # 2026-03-09: Add early stopping to trainer
+# 2026-03-09: Bump numpy to latest stable
