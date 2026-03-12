@@ -26,3 +26,4 @@
 # 2026-02-22: Fix seed for reproducibility
 # 2026-02-25: Add type hints to core functions
 # 2026-03-06: Fix edge case in data preprocessing
+# 2026-03-12: Add learning rate scheduler
