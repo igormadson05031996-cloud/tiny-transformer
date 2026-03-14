@@ -17,3 +17,4 @@
 # 2026-03-08: Add unit tests for tokenizer
 # 2026-03-09: Add early stopping to trainer
 # 2026-03-09: Bump numpy to latest stable
+# 2026-03-14: Add baseline evaluation script
