@@ -18,3 +18,4 @@
 # 2026-03-09: Add early stopping to trainer
 # 2026-03-09: Bump numpy to latest stable
 # 2026-03-14: Add baseline evaluation script
+# 2026-03-15: Update dependencies
