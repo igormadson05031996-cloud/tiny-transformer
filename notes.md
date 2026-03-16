@@ -11,3 +11,4 @@
 # 2026-02-16: Update README with usage examples
 # 2026-02-19: Simplify loss computation
 # 2026-03-03: Add baseline evaluation script
+# 2026-03-16: Update README with usage examples
