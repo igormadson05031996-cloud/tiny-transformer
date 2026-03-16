@@ -13,3 +13,4 @@
 # 2026-03-07: Fix gradient accumulation bug
 # 2026-03-08: Tune hyperparameters for better accuracy
 # 2026-03-14: Bump numpy to latest stable
+# 2026-03-16: Switch to AdamW optimiser
