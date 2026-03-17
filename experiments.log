@@ -21,3 +21,4 @@
 # 2026-02-19: Fix checkpoint save path
 # 2026-03-09: Fix checkpoint save path
 # 2026-03-16: Simplify loss computation
+# 2026-03-17: Refactor training loop for clarity
